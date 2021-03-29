@@ -1,25 +1,27 @@
+set emptyline
 set autoindent
 set constantshow
-set emptyline
-set errorcolor bold,brightwhite,red
-set functioncolor italic,red,black
 set guidestripe 80
-set stripecolor red,black
 set indicator
-set keycolor bold,yellow,blue
 set linenumbers
-set magic
-set mouse
-set numbercolor italic,red,black
 set positionlog
-set scrollercolor yellow,blue
-set selectedcolor bold,blue,yellow
 set showcursor
-set atblanks
-set spotlightcolor bold,green,red
-set statuscolor bold,red,yellow
 set tabsize 4
-set tabtospaces
-set titlecolor italic,red,black
-set unix
+set tabstospaces
 set zap
+set unix
+set nonewlines
+set mouse
+set magic
+
+set errorcolor bold,white,red
+set functioncolor italic,red,black
+set stripecolor blue,black
+set keycolor italic,black,red
+set numbercolor italic,red,black
+set scrollercolor black,red
+set selectedcolor italic,black,yellow
+set spotlightcolor italic,yellow,black
+set statuscolor italic,red,black
+set titlecolor italic,black,red
+set promptcolor bold,yellow,black
