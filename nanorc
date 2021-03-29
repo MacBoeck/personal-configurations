@@ -11,7 +11,8 @@ set tabstospaces
 set zap
 set unix
 set nonewlines
-set mouse
+set softwrap
+set atblanks
 
 set errorcolor bold,white,red
 set functioncolor italic,red,black
