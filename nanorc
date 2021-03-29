@@ -12,7 +12,6 @@ set zap
 set unix
 set nonewlines
 set mouse
-set magic
 
 set errorcolor bold,white,red
 set functioncolor italic,red,black
