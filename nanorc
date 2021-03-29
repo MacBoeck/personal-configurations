@@ -19,7 +19,7 @@ set functioncolor italic,red,black
 set stripecolor yellow,black
 set keycolor italic,black,red
 set numbercolor italic,red,black
-set scrollercolor black,red
+set scrollercolor red,black
 set selectedcolor italic,black,yellow
 set spotlightcolor italic,yellow,black
 set statuscolor italic,red,black
