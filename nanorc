@@ -23,5 +23,5 @@ set scrollercolor red,black
 set selectedcolor italic,black,yellow
 set spotlightcolor italic,yellow,black
 set statuscolor italic,red,black
-set titlecolor italic,black,red
+set titlecolor italic,red,black
 set promptcolor bold,yellow,black
